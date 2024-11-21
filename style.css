@@ -1,0 +1,39 @@
+.box {
+    width: 100px;
+    border: 2px solid black;
+
+    /* padding which is apply all sides */
+    padding: 10px;
+
+    /* padding top,buttom  /  left,right */
+    padding: 10px 20px;
+
+    /* Padding top right bottom left */
+    padding: 10px 20px 30px 40px;
+
+    /* other things */
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+
+
+
+    /* margin which is apply all sides */
+    margin: 10px;
+
+    /* margin top,buttom  /  left,right */
+    margin: 10px 20px;
+
+    /* margin top right bottom left */
+    margin: 10px 20px 30px 40px;
+
+    /* other things */
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+    box-sizing: border-box;
+}
